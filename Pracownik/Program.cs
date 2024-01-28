@@ -3,5 +3,5 @@ string name;
 string surname;
 int age;
 char sex;
-long pesel;
+string pesel;
 int workerId;
